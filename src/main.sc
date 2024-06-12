@@ -25,4 +25,4 @@ theme: /
 
     state: NoMatch
         event!: noMatch
-        a: Я не понял ваш запрос:"{{$request.query}}".
+        a: Я не понял ваш запрос.
